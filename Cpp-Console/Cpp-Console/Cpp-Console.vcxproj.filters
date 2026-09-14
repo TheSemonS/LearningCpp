@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Cpp-Console.cpp">
+    <ClCompile Include="HelloWorld!.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
